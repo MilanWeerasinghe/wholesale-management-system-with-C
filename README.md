@@ -1,10 +1,19 @@
-# wholesale-management-system-with-C
-- Undergrad first-year project for Wholesale Management System using C language with CLI
+# Wholesale Management System in C
 
-- I have provided the exe file...
+# Overview
+This project is a Wholesale Management System implemented in C. It allows users to manage inventory, track sales, and perform various tasks related to wholesale operations.
 
-- Go to master branch and you will find the file there.
+# Features
+- Inventory management
+- Sales tracking
+- User authentication
+- Report generation
+
+# Prerequisites
+ C Compiler (e.g., GCC) <br>
+ Operating System: Windows/Linux/Mac
 
   **hint** <br>
 username: **admin** <br>
 password: **pass**
+
